@@ -1,3 +1,3 @@
 hello, world
 
-ggod morning
+good morning
